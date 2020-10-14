@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/Sydneypo/zookeepr.git"
   },
-  "keywords": [],
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
